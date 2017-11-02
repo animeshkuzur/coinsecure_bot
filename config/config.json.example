@@ -1,0 +1,13 @@
+{
+	"app":{
+		"key":"api_key",
+		"env":"local",
+		"debug":"true"
+	},
+	"mysql":{
+		"host":"localhost",
+        "user":"root",
+        "password":"password",
+        "database":"database"
+	}
+}
